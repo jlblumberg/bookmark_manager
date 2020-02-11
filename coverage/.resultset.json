@@ -21,12 +21,12 @@
       "/Users/student/makers_stuff/projects/week_4/bookmark_manager/lib/bookmark.rb": {
         "lines": [
           1,
+          null,
           1,
-          null,
+          1,
           2,
-          null,
-          null,
-          null,
+          2,
+          8,
           null,
           null
         ]
@@ -55,6 +55,6 @@
         ]
       }
     },
-    "timestamp": 1581355075
+    "timestamp": 1581435565
   }
 }
