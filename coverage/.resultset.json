@@ -10,9 +10,16 @@
           1,
           1,
           null,
+          null,
           1,
           1,
-          0,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
           null,
           null,
           null
@@ -21,12 +28,22 @@
       "/Users/student/makers_stuff/projects/week_4/bookmark_manager/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
+          null,
           1,
           1,
           null,
           1,
+          null,
+          null,
           1,
-          0,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
           null,
           null
         ]
@@ -42,6 +59,6 @@
         ]
       }
     },
-    "timestamp": 1581438062
+    "timestamp": 1581440881
   }
 }
