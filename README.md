@@ -1,5 +1,7 @@
 # Bookmark Manager
 
+## Initial planning and domain diagram
+
 ![Initial user story and domain diagram](https://i.imgur.com/OprbFBa.jpg)
 
 ## Set up the database
