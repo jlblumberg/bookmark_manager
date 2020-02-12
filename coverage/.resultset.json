@@ -4,17 +4,6 @@
       "/Users/student/makers_stuff/projects/week_4/bookmark_manager/spec/bookmark_spec.rb": {
         "lines": [
           1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          1,
-          null,
           1,
           null,
           1,
@@ -22,6 +11,25 @@
           1,
           null,
           null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
           null,
           1,
           1,
@@ -33,8 +41,19 @@
           null
         ]
       },
+      "/Users/student/makers_stuff/projects/week_4/bookmark_manager/spec/database_helpers.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/student/makers_stuff/projects/week_4/bookmark_manager/spec/features/creating_bookmarks_spec.rb": {
         "lines": [
+          1,
           1,
           1,
           1,
@@ -77,6 +96,6 @@
         ]
       }
     },
-    "timestamp": 1581521589
+    "timestamp": 1581528773
   }
 }
