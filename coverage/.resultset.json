@@ -84,6 +84,33 @@
           null
         ]
       },
+      "/Users/student/makers_stuff/projects/week_4/bookmark_manager/spec/database_connection_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/student/makers_stuff/projects/week_4/bookmark_manager/spec/features/creating_bookmarks_spec.rb": {
         "lines": [
           1,
@@ -167,6 +194,6 @@
         ]
       }
     },
-    "timestamp": 1581676168
+    "timestamp": 1581681179
   }
 }
