@@ -10,8 +10,6 @@
           1,
           1,
           null,
-          null,
-          null,
           1,
           1,
           1,
@@ -63,6 +61,20 @@
           1,
           1,
           1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
           null,
           1,
           1,
@@ -162,6 +174,20 @@
           null
         ]
       },
+      "/Users/student/makers_stuff/projects/week_4/bookmark_manager/spec/features/validating_a_url_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/student/makers_stuff/projects/week_4/bookmark_manager/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
           1,
@@ -194,6 +220,6 @@
         ]
       }
     },
-    "timestamp": 1581681179
+    "timestamp": 1581694230
   }
 }

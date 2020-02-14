@@ -4,8 +4,6 @@ require 'database_helpers'
 describe Bookmark do
   describe '.all' do
     it 'returns all bookmarks' do
-      # connection = PG.connect(dbname: 'bookmark_manager_test')
-
       # Add the test data
       bookmark = Bookmark.create(url: 'http://www.makersacademy.com', title: "Makers Academy")
       Bookmark.create(url: "http://www.destroyallsoftware.com", title: "Destroy All Software")
@@ -63,6 +61,20 @@ describe Bookmark do
       expect(result.id).to eq(bookmark.id)
       expect(result.title).to eq('Makers Academy')
       expect(result.url).to eq('http://www.makersacademy.com')
+    end
+  end
+  
+  describe '.create' do
+    it 'does not create a new bookmark if the URL is not valid' do
+      Bookmark.create(url: 'not a real bookmark', title: 'not a real bookmark')
+      expect(Bookmark.all).to be_empty
+    end
+  end
+
+  describe '.is_url?' do
+    it 'checks whether a url is valid' do
+      expect(Bookmark.is_url?("http://this is not a url")).to eq(false)
+      expect(Bookmark.is_url?("http://google.com")).to eq(true)
     end
   end
 
