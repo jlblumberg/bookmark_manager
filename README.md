@@ -15,7 +15,7 @@ A bookmark manager is a website to maintain a collection of bookmarks (URLs). Yo
 
 ## <a name="Planning">Planning</a>
 
-## Initial planning, user story, and domain diagram
+### Initial planning, user story, and domain diagram
 
 ![Initial user story and domain diagram](https://i.imgur.com/OprbFBa.jpg)
 
@@ -69,4 +69,4 @@ Linting:
 
 ## <a name="Future_work">Future work</a>
 
-On a revisit of the project, I would like to build in comments and likes on posts as those features have not yet been built.
+On a revisit of the project, I would like to build a user login and authentication system.
