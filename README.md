@@ -58,6 +58,7 @@ Front-end:
 
 Back-end:
 - Ruby
+- Sinatra
 - PostgreSQL
 
 Testing:
